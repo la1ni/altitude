@@ -6,6 +6,4 @@ CREATE TABLE users (
    last_name VARCHAR(50) NOT NULL,
    email VARCHAR(70) NOT NULL,
    phone VARCHAR(50) NOT NULL,
-   cpf VARCHAR NOT NULL,
-   role VARCHAR NOT NULL
-);
+   cpf VARCHAR NOT NULL);
